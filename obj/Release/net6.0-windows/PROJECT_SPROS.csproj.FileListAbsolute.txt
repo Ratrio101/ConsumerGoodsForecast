@@ -1,0 +1,46 @@
+C:\Users\skibc\source\repos\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.exe
+C:\Users\skibc\source\repos\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.dll.config
+C:\Users\skibc\source\repos\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.deps.json
+C:\Users\skibc\source\repos\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.runtimeconfig.json
+C:\Users\skibc\source\repos\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.dll
+C:\Users\skibc\source\repos\PROJECT_SPROS\bin\Release\net6.0-windows\ref\PROJECT_SPROS.dll
+C:\Users\skibc\source\repos\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.pdb
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.csproj.AssemblyReference.cache
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\Spros_SE.About.resources
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\Spros_SE.Form1.resources
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\Spros_SE.HELP.resources
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.Properties.Resources.resources
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.Result.resources
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.TitleScreen.resources
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.csproj.GenerateResource.cache
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.AssemblyInfoInputs.cache
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.AssemblyInfo.cs
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.csproj.CoreCompileInputs.cache
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.dll
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\ref\PROJECT_SPROS.dll
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.pdb
+C:\Users\skibc\source\repos\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.genruntimeconfig.cache
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.exe
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.dll.config
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.deps.json
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.runtimeconfig.json
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.dll
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\bin\Release\net6.0-windows\PROJECT_SPROS.pdb
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.csproj.AssemblyReference.cache
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\Spros_SE.About.resources
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\Spros_SE.Form1.resources
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\Spros_SE.HELP.resources
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.Properties.Resources.resources
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.Result.resources
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.TitleScreen.resources
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.csproj.GenerateResource.cache
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.GeneratedMSBuildEditorConfig.editorconfig
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.AssemblyInfoInputs.cache
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.AssemblyInfo.cs
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.csproj.CoreCompileInputs.cache
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.dll
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\refint\PROJECT_SPROS.dll
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.pdb
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\PROJECT_SPROS.genruntimeconfig.cache
+I:\.2 КУРС\инженерка\Программа\PROJECT_SPROS\obj\Release\net6.0-windows\ref\PROJECT_SPROS.dll
